@@ -7,11 +7,12 @@ const Hero = () => {
         <div className="hero-title">
           <h1>Projects Demo</h1>
           <p>
-            Typewriter vice etsy keffiyeh, jean shorts pinterest wayfarers
-            listicle single-origin coffee. Health goth mumblecore before they
-            sold out deep v pok pok authentic lo-fi shabby chic wayfarers beard
-            etsy. 3 wolf moon lumbersexual shabby chic artisan ennui ramps
-            bespoke pabst four loko locavore.
+            I invite you to explore my web demos and see firsthand the results
+            of my passion for web development and design. If you're ready to
+            embark on a digital journey or need a web solution that reflects
+            your vision, don't hesitate to get in touch. Your project could be
+            the next addition to my ever-evolving portfolio. Let's create
+            something amazing together!
           </p>
         </div>
         <div className="img-container">
